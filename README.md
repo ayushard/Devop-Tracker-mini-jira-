@@ -1,3 +1,4 @@
+HEAD
 # DevOps Project Management Dashboard
 
 A production-style full-stack DevOps project management dashboard built with Spring Boot, React.js, and MySQL. The application provides lightweight Jira-style project planning, role-based access, task tracking, comments, attachments, activity logs, and a modern dashboard experience.
@@ -187,3 +188,6 @@ The following checks were run successfully in this workspace:
 - `mvn -q -DskipTests test`
 - `npm install`
 - `npm run build`
+
+# Devop-Tracker-mini-jira-
+ 0c606d9eb2c8e54139017e9fb6d57e22a5c29634
